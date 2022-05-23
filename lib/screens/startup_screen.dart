@@ -21,7 +21,7 @@ class StartupScreen extends StatefulWidget {
 }
 
 class _StartupScreenState extends State<StartupScreen> {
-  String _token = "";
+  String _token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiI0Y2Y1ZDVmMi03YmQ4LTRlOGUtYmM1ZC04YWYxYTBlM2I1NTQiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTY1MzA0MDUxNCwiZXhwIjoxNjUzNjQ1MzE0fQ.vRsTiJy5AIQVJUlHP3WHa3v5P0lU2mVRGUob7ztcBbU";
   String _meetingID = "";
 
   @override
